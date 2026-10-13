@@ -1,6 +1,5 @@
 package com.analytics.data.entity;
 
-
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
