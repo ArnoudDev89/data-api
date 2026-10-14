@@ -15,5 +15,4 @@ public class CarModelAnalyticsEntity {
         private Long id;
         private String model;
         private Long posts;
-
 }
